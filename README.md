@@ -1,2 +1,3 @@
 # Python-for-Data-science
-PDS files
+1. Introduction to Python
+2. Strings and Collections
