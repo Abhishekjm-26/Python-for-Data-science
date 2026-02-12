@@ -4,8 +4,8 @@
 3. Python Data Structures
 4. Decision making
 5. Loops, Range, Break, Continue and Comprehension
-6. User defined and Lambda functions
-7. Variable scope, namespace and Recursion
+6. Functions, namespace, scope.
+7. Recursion
 8. File input/output
 9. Object Oriented Programming
 10. Problems
