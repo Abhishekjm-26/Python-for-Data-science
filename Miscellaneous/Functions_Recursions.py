@@ -178,12 +178,12 @@
 
 #factorial
 # def facti(n):
-#     if(n==1 or n==0):
+#     if(n==1 or n==0): #base case
 #         return 1
 #     r= facti(n-1)*n
 #     return r
 # print(facti(5))
-#Understnd hpw it works.
+#Understand how it works.
 
 
 #write a function to calculate sum of first n natural numbers
@@ -210,4 +210,5 @@
 #     ilist(list,idx+1)
 
 # fruits = ["Apple", "Mango","Litchi"]
+
 # ilist(fruits)
